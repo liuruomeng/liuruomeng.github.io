@@ -64,7 +64,7 @@ Academically, I have been influenced by my B.A. advisor, which led me to conscio
 
 Methodologically, I lean towards quantitative approaches, including traditional inferential statistics, while also expanding my knowledge of popular machine learning algorithms. I primarily utilize R as my primary tool, with Python serving as a supplementary language.
 
-I have a strong passion for computational social sciences, an exciting and rapidly-evolving interdisciplinary field. My learning journey includes basic maths[calculus(2020), linear algebra(2021)], traditional quantitative research methods(survey, content analysis and experiment)(2021), intermediate social statistics(2022), econometrics(2022), social network analysis(2022), algebra of expectations(2023), intro to computational social science(2023), structural equation model(2023), survival analysis(2023), agent-based modeling(2023), DID and RD method(2023)...
+I have a strong passion for computational social sciences, an exciting and rapidly-evolving interdisciplinary field. My learning journey includes basic maths[calculus(2020), linear algebra(2021)], traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), intermediate social statistics(2022), social network analysis(2022), algebra of expectations(2023), econometrics(2023), machine learning(2023), python data science(2023), R programming(2023), intro to computational social science(2023), structural equation model(2023), survival analysis(2023), agent-based modeling(2023), DID and RD method(2023)...
 
 ### Areas of Interest with Potential for Further Development
 
