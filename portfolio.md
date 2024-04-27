@@ -8,7 +8,7 @@ _Here I put my selected news practice work and course work during the college_
 
 I originally came to journalism school for journalism practice, and during my early years in college I became passionate about interviewing and writing, while exploring the possibilities of nonfiction writing. Therefore, I participated in the new media team of a campus media. In the later days of my sophomore year, I started to be curious about communication studies and found that academia was a way to help me understand the confusion in the world and society. I took courses broadly and enjoyed interdisciplinary knowledge in history, sociology, philosophy, journalism, communication and computing.
 
-### Shortcuts
+### Quick look
 
 
 
@@ -70,13 +70,20 @@ I had a very valuable internship in data journalism at The Paper. The Paper is a
 * [高铁带娃引反感，注定无解？](https://mp.weixin.qq.com/s/HDe2M6pwG_Dx7J1zCJhC1Q)
 * [伤亡惨重的夏威夷毛伊岛大火，是怎么发生的？](https://mp.weixin.qq.com/s/Ak5-RU8VsDfNqZcZ6rmXtA)
 
-* [数据可视化习作-timeline](./assets/img/visualization_timeline.jpg)
-* [数据可视化习作-linechart](./assets/img/%20visualization_linechart.pic.jpg)
+* [Visualization Draft - Timeline](./assets/img/visualization_timeline.jpg)
+* [Visualization Draft - Linechart](./assets/img/%20visualization_linechart.pic.jpg)
+
+
+## Project Nous
+Founded in 2016, Project Nous is a public welfare education program voluntarily organized by a group of Chinese college students from all over the country and abroad. It aims to bring small-class discussions and liberal arts education experience to high school students in non-first-tier cities and counties.
+
+In 2022 summer, I brought a 10-day course "oral history and journalistic nostalgia" to the Mianyang camp. The course aims to observe the resurgence of oral tradition and its culture. Also, it focuses on the individual's narratives, marginalized groups and community memory. In addition to that, we discuss its impact on today's journalism practice.
+
+* [Project nous syllabus](./projectnous.html)
+* [对话领读人 - 圆桌访谈 “一名格致领读人的自我修养：社会科学专场”](https://mp.weixin.qq.com/s/gjgRXQuEWTRbsgJqE0bSvg)
 
 ## <a id="post"></a>Post elsewhere
 * [入选国际顶会，但去不了？](https://mp.weixin.qq.com/s/berxlUNRHbOTGn-iMdByBA)
-* [格致计划课程计划](./projectnous.html)
-* [对话领读人 - 圆桌访谈 “一名格致领读人的自我修养：社会科学专场”](https://mp.weixin.qq.com/s/gjgRXQuEWTRbsgJqE0bSvg)
 * [访谈 -  苏春艳](./sucy.html)
 
 
@@ -97,8 +104,6 @@ I had a very valuable internship in data journalism at The Paper. The Paper is a
 * [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing) *In Chinese*（course:Foreign Journalism and Communication History, Title: Analysis of the New York Times' Reporting Framework on Climate Change at COP24）
 * [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* （course:Intercultural Communication, Title:Chivalry and Knightship: A Cross-Cultural Interpretation of "Ever Night" ）
 * [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing)（course: Political Communication）
-
-
 * [关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型](/assets/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf) *In Chinese* 
 * [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_preference.pdf),[appendix-figure](/assets/appendix_party%20media%20preference.pdf)
 
@@ -106,8 +111,8 @@ I had a very valuable internship in data journalism at The Paper. The Paper is a
 
 * [ICA postconference(2023 media sociology):Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
 * [MSC 2023:Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
-* [ICA annual conference 2024: Using Agent-based Modeling to Explore the “Myth” of Media Multitasking](/assets/ABSTRACT_ICA2024.pdf)
-* [CIRC(Under consideration):Insulting CN](https://drive.google.com/file/d/1GoUCI619okfwERl4fQTBx2IjwC2VkkW-/view?usp=sharing)
+<!-- * [ICA annual conference 2024: Using Agent-based Modeling to Explore the “Myth” of Media Multitasking](/assets/ABSTRACT_ICA2024.pdf)
+* [CIRC(Under consideration):Insulting CN](https://drive.google.com/file/d/1GoUCI619okfwERl4fQTBx2IjwC2VkkW-/view?usp=sharing) -->
 
 
 [Back to HomePage](./)
