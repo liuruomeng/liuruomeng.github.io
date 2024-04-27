@@ -111,6 +111,7 @@ In 2022 summer, I brought a 10-day course "oral history and journalistic nostalg
 
 * [ICA postconference(2023 media sociology):Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
 * [MSC 2023:Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
+
 <!-- * [ICA annual conference 2024: Using Agent-based Modeling to Explore the “Myth” of Media Multitasking](/assets/ABSTRACT_ICA2024.pdf)
 * [CIRC(Under consideration):Insulting CN](https://drive.google.com/file/d/1GoUCI619okfwERl4fQTBx2IjwC2VkkW-/view?usp=sharing) -->
 
