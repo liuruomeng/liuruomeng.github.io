@@ -106,7 +106,7 @@ Here are some of my course papers, they are not mature and well-developed, but I
 * [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing) *In Chinese*（course:Foreign Journalism and Communication History, Title: Analysis of the New York Times' Reporting Framework on Climate Change at COP24）
 
 #### sociology
-* [从信任视角看浙江村研究](https://docs.google.com/document/d/15yMsLKLjs1m6HBQYijrLZ04F0r9tA_zl/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese*（course: Academic Workshop, Title:Reviews on Zhejiangcun Research From the Perspective of Trust）
+* [从信任视角看浙江村研究](/assets/信任视角下的浙江村研究.pdf) *In Chinese*（course: Academic Workshop, Title:Reviews on Zhejiangcun Research From the Perspective of Trust）
 * [资本主义精神的对话](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* （course: Sociology Selected Classics Reading, Title:Dialogue on the Spirit of Capitalism）
 * [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* （course:Intercultural Communication, Title:Chivalry and Knightship: A Cross-Cultural Interpretation of "Ever Night" ）
 * [德意志意识形态读书笔记](/assets/德意志意识形态读书笔记.pdf)*In Chinese* (course: Media Sociology, Title: The German Ideology Reading Notes)
