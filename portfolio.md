@@ -90,19 +90,33 @@ In 2022 summer, I brought a 10-day course "oral history and journalistic nostalg
 ## coursework project
 
 ### <a id="journalitic pracitce"></a>works
+In my undergraduate years, there are courses help students to prepare for journalism profession. I practiced interviewing and adobe design set here.
+
 * [尤卡斯电讯](https://drive.google.com/file/d/1LtgGQTA7hX7nS5UmlbgszY04yJxfbjTj/view?usp=sharing)（course: Intro to Journalism and Communication）
 * [尚娱SKYLIGHT](https://drive.google.com/file/d/1BPLdelDpi1AaxtAY38osSErYmKKOMeSE/view?usp=sharing)（course: News Editing）
 * [Cross-strait Culture Review](https://drive.google.com/file/d/1hzxfl18qs5LLBXCmSwoGEJHIN1l6vlxl/view?usp=sharing)（course: English News Editing）
 
 ### <a id="academic paper"></a>paper
+Here are some of my course papers, they are not mature and well-developed, but I used to be interesed in the question or practice some related methods.
 
+#### journalism studies
 * [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing) *In Chinese*（course:News Commentary, Title:An analysis of review preferences on Xiake Island from the perspective of trust）
 * [热搜中的知识框架——以俄乌冲突微博热搜为例](https://docs.google.com/document/d/1af3U6KBNraa7f56NTiUboxd4eBmFNwua/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese*（course: Communication Research Method, Title:Knowledge framing in hot searches: Weibo hot searches on the Russia-Ukraine conflict as an example）
+* [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing) *In Chinese*（course:Foreign Journalism and Communication History, Title: Analysis of the New York Times' Reporting Framework on Climate Change at COP24）
+
+#### sociology
 * [从信任视角看浙江村研究](https://docs.google.com/document/d/15yMsLKLjs1m6HBQYijrLZ04F0r9tA_zl/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese*（course: Academic Workshop, Title:Reviews on Zhejiangcun Research From the Perspective of Trust）
 * [资本主义精神的对话](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* （course: Sociology Selected Classics Reading, Title:Dialogue on the Spirit of Capitalism）
-* [媒介视角下的口述史作为方法](https://drive.google.com/file/d/1dndqL77vspiTx9uUlftdUGNRaJorEIzA/view?usp=sharing) *In Chinese* （course: Social Survey and Historical Research, Title: Oral History as Method From a Media Perspective）
-* [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing) *In Chinese*（course:Foreign Journalism and Communication History, Title: Analysis of the New York Times' Reporting Framework on Climate Change at COP24）
 * [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* （course:Intercultural Communication, Title:Chivalry and Knightship: A Cross-Cultural Interpretation of "Ever Night" ）
+* [德意志意识形态读书笔记](/assets/德意志意识形态读书笔记.pdf)*In Chinese* (course: Media Sociology, Title: The German Ideology Reading Notes)
+
+#### history
+* [媒介视角下的口述史作为方法](https://drive.google.com/file/d/1dndqL77vspiTx9uUlftdUGNRaJorEIzA/view?usp=sharing) *In Chinese* （course: Social Survey and Historical Research, Title: Oral History as Method From a Media Perspective）
+
+#### computational/quantitative-methods
+* [什么在影响媒介多任务行为？](/assets/mediamultitasking_machinelearning.pdf) *In Chinese* (course:Machine Learning, Title: Factors that Influencing Media Multitasking Behavior)
+
+
 * [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing)（course: Political Communication）
 * [关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型](/assets/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf) *In Chinese* 
 * [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_preference.pdf),[appendix-figure](/assets/appendix_party%20media%20preference.pdf)
