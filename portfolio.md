@@ -13,8 +13,8 @@ I originally came to journalism school for journalism practice, and during my ea
 
 
 <div class="shortcut-container">
-    <a href="#campus-media" class="shortcut">campus media</a>
-    <a href="#public-relation" class="shortcut">public relation</a>
+    <a href="#campus media" class="shortcut">campus media</a>
+    <a href="#public relation" class="shortcut">public relation</a>
     <a href="#data-infographic-news" class="shortcut">data infographic news</a>
     <a href="#post" class="shortcut">post</a>
     <a href="#journalistic-practice" class="shortcut">journalitic pracitce</a>
