@@ -15,10 +15,11 @@ I originally came to journalism school for journalism practice, and during my ea
 <div class="shortcut-container">
     <a href="#campus media" class="shortcut">campus media</a>
     <a href="#public relation" class="shortcut">public relation</a>
-    <a href="#data-infographic-news" class="shortcut">data infographic news</a>
+    <a href="#data infographic news" class="shortcut">data infographic news</a>
+    <a href="#public welfare" class="shortcut">public welfare</a>
     <a href="#post" class="shortcut">post</a>
-    <a href="#journalistic-practice" class="shortcut">journalitic pracitce</a>
-    <a href="#academic-paper" class="shortcut">academic paper</a>
+    <a href="#journalistic practice" class="shortcut">journalitic pracitce</a>
+    <a href="#course paper" class="shortcut">academic paper</a>
     <a href="#conference" class="shortcut">conference</a>
 </div>
 
@@ -74,7 +75,7 @@ I had a very valuable internship in data journalism at The Paper. The Paper is a
 * [Visualization Draft - Linechart](./assets/img/%20visualization_linechart.pic.jpg)
 
 
-## Project Nous
+## <a id="public welfare"></a>Project Nous
 Founded in 2016, Project Nous is a public welfare education program voluntarily organized by a group of Chinese college students from all over the country and abroad. It aims to bring small-class discussions and liberal arts education experience to high school students in non-first-tier cities and counties.
 
 In 2022 summer, I brought a 10-day course "oral history and journalistic nostalgia" to the Mianyang camp. The course aims to observe the resurgence of oral tradition and its culture. Also, it focuses on the individual's narratives, marginalized groups and community memory. In addition to that, we discuss its impact on today's journalism practice.
@@ -96,7 +97,7 @@ In my undergraduate years, there are courses help students to prepare for journa
 * [尚娱SKYLIGHT](https://drive.google.com/file/d/1BPLdelDpi1AaxtAY38osSErYmKKOMeSE/view?usp=sharing)（course: News Editing）
 * [Cross-strait Culture Review](https://drive.google.com/file/d/1hzxfl18qs5LLBXCmSwoGEJHIN1l6vlxl/view?usp=sharing)（course: English News Editing）
 
-### <a id="academic paper"></a>paper
+### <a id="course paper"></a>paper
 Here are some of my course papers, they are not mature and well-developed, but I used to be interesed in the question or practice some related methods.
 
 #### journalism studies
