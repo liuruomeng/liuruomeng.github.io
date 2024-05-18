@@ -13,7 +13,6 @@ layout: default
 For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com) or [liuruomeng@ucass.edu.cn](mailto:liuruomeng@ucass.edu.cn) -->
 
 
-**Ruomeng Liu** is a M.Phil. cadidate @HKU, advised by Prof.King-wa Fu, fully funded by PGS. He now is a visiting scholar at Ohio State University, supervised by Zheng Joyce Wang. He will join Stanford Communication Department 2026fall.
 
 Ruomeng obtained B.A. at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) , advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/xwx/sdtj/201510/t20151010_2489106.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [Chinese Academy of Social Sciences](http://casseng.cssn.cn/). He also studied at [University of California, Davis](https://communication.ucdavis.edu/) for the 2022fall quarter. 
 
