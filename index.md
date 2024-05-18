@@ -13,7 +13,9 @@ layout: default
 For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com) or [liuruomeng@ucass.edu.cn](mailto:liuruomeng@ucass.edu.cn) -->
 
 
-**Ruomeng Liu** is currently an undergraduate student at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) , advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/xwx/sdtj/201510/t20151010_2489106.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [Chinese Academy of Social Sciences](http://casseng.cssn.cn/). He also studied at [University of California, Davis](https://communication.ucdavis.edu/) for the 2022fall quarter. 
+**Ruomeng Liu** is a M.Phil. cadidate @HKU, advised by Prof.King-wa Fu, fully funded by PGS. He now is a visiting scholar at Ohio State University, supervised by Zheng Joyce Wang. He will join Stanford Communication Department 2026fall.
+
+Ruomeng obtained B.A. at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) , advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/xwx/sdtj/201510/t20151010_2489106.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [Chinese Academy of Social Sciences](http://casseng.cssn.cn/). He also studied at [University of California, Davis](https://communication.ucdavis.edu/) for the 2022fall quarter. 
 
 Ruomeng’s research interests include political communication, media cognition and computational social science. Today’s media environment, with high-choice and uncertainty as characteristics, encourage the media scholars to advance the understanding of decision-making, on both individual-level and societal level. 
 
@@ -66,7 +68,13 @@ Methodologically, I lean towards quantitative approaches, including traditional 
 
 I have a strong passion for computational social sciences, an exciting and rapidly-evolving interdisciplinary field. My learning journey includes basic maths[calculus(2020), linear algebra(2021)], traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), intermediate social statistics(2022), social network analysis(2022), algebra of expectations(2023), econometrics(2023), machine learning(2023), python data science(2023), R programming(2023), intro to computational social science(2023), structural equation model(2023), survival analysis(2023), agent-based modeling(2023), DID and RD method(2023)...
 
-Recently I'm reading *Probability and Statistics for Economists* and *Econometrics* by Bruce Hansen and *Counterfactuals and Causal Inference: Methods and Principles for Social Research* by Stephen L. Morgan.
+Recently I'm reading
+
+- *Probability and Statistics for Economists* and *Econometrics* by Bruce Hansen 
+ 
+- *Counterfactuals and Causal Inference: Methods and Principles for Social Research* by Stephen L. Morgan
+
+- *Modeling Social Behavior: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution* by Paul E. Smaldino 
 
 ### Areas of Interest with Potential for Further Development
 
