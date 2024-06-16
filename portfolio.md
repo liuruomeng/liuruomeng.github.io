@@ -87,7 +87,7 @@ Founded in 2016, Project Nous is a public welfare education program voluntarily 
 
 In 2022 summer, I brought a 10-day course "oral history and journalistic nostalgia" to the Mianyang camp. The course aims to observe the resurgence of oral tradition and its culture. Also, it focuses on the individual's narratives, marginalized groups and community memory. In addition to that, we discuss its impact on today's journalism practice.
 
-* [Project nous syllabus](./projectnous.html)
+* [Project nous syllabus](/assets/syllabus_oral_history%20.pdf)
 * [对话领读人 - 圆桌访谈 “一名格致领读人的自我修养：社会科学专场”](https://mp.weixin.qq.com/s/gjgRXQuEWTRbsgJqE0bSvg)
 
 ## <a id="post"></a>Post elsewhere
