@@ -21,6 +21,7 @@ I originally came to journalism school for journalism practice, and during my ea
     <a href="#journalistic practice" class="shortcut">journalitic pracitce</a>
     <a href="#course paper" class="shortcut">academic paper</a>
     <a href="#conference" class="shortcut">conference</a>
+    <a href="#research promotion" class="shortcut">conference</a>
 </div>
 
 <!-- - [campus media](#campus media)
@@ -74,6 +75,12 @@ I had a very valuable internship in data journalism at The Paper. The Paper is a
 * [Visualization Draft - Timeline](./assets/img/visualization_timeline.jpg)
 * [Visualization Draft - Linechart](./assets/img/%20visualization_linechart.pic.jpg)
 
+## <a id="research promotion"></a> Luohan Academy
+Luohan Academy is a research institute founded by Alibaba Group in Hangzhou, China, in 2019. The academy is dedicated to advancing the understanding and application of the social sciences and artificial intelligence to help solve some of the world's most pressing economic and social challenges.
+
+* [Luohan Webinars](https://www.luohanacademy.com/events)
+* [如何向AGI过渡：关于产出、工资及人类福祉的情景分析](https://mp.weixin.qq.com/s/yKGVKSFe3uYoM0yrUDfOjQ)
+* [企业注意力——经济周期背后的隐藏力量](https://mp.weixin.qq.com/s/rRy0n8xABRwYcyHpGycOng)
 
 ## <a id="public welfare"></a>Project Nous
 Founded in 2016, Project Nous is a public welfare education program voluntarily organized by a group of Chinese college students from all over the country and abroad. It aims to bring small-class discussions and liberal arts education experience to high school students in non-first-tier cities and counties.

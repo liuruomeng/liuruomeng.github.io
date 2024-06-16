@@ -12,9 +12,7 @@ layout: default
 
 For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com) or [liuruomeng@ucass.edu.cn](mailto:liuruomeng@ucass.edu.cn) -->
 
-
-
-Ruomeng is currently an undergraduate student at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm), advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/xwx/sdtj/201510/t20151010_2489106.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [Chinese Academy of Social Sciences](http://casseng.cssn.cn/). He also studied at [University of California, Davis](https://communication.ucdavis.edu/) for the 2022fall quarter. 
+**Ruomeng** is currently an undergraduate student at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm), advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/xwx/sdtj/201510/t20151010_2489106.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [Chinese Academy of Social Sciences](http://casseng.cssn.cn/). He also studied at [University of California, Davis](https://communication.ucdavis.edu/) for the 2022fall quarter. 
 
 Ruomeng’s research interests include political communication, media cognition and computational social science. Today’s media environment, with high-choice and uncertainty as characteristics, encourage the media scholars to advance the understanding of decision-making, on both individual-level and societal level. 
 
