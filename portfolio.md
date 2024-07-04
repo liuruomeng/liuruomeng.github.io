@@ -76,7 +76,7 @@ I had a very valuable internship in data journalism at The Paper. The Paper is a
 * [Visualization Draft - Linechart](./assets/img/%20visualization_linechart.pic.jpg)
 
 ## <a id="research promotion"></a> Luohan Academy
-Luohan Academy is a research institute founded by Alibaba Group in Hangzhou, China, in 2019. The academy is dedicated to advancing the understanding and application of the social sciences and artificial intelligence to help solve some of the world's most pressing economic and social challenges.
+Luohan Academy is a research institute founded by Alibaba Group in Hangzhou, China, in 2019. The academy is dedicated to advancing the understanding and application of the social sciences and artificial intelligence to help solve some of the world's most pressing economic and social challenges. I devoted some time here to help research promotion, like supporting the [luohan webinar](https://sites.google.com/view/luohanevents/home?authuser=0) and [The 2024 Conference on Digital Economy](https://sites.google.com/view/2024-luohan-annual-conference/2024-annual-conference).
 
 * [Luohan Webinars](https://www.luohanacademy.com/events)
 * [如何向AGI过渡：关于产出、工资及人类福祉的情景分析](https://mp.weixin.qq.com/s/yKGVKSFe3uYoM0yrUDfOjQ)
