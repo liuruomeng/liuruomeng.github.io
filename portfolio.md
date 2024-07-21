@@ -21,7 +21,7 @@ I originally came to journalism school for journalism practice, and during my ea
     <a href="#journalistic practice" class="shortcut">journalitic pracitce</a>
     <a href="#course paper" class="shortcut">academic paper</a>
     <a href="#conference" class="shortcut">conference</a>
-    <a href="#research promotion" class="shortcut">conference</a>
+    <a href="#research promotion" class="shortcut">research promotion</a>
 </div>
 
 <!-- - [campus media](#campus media)
