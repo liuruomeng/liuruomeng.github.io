@@ -21,7 +21,7 @@ From a simple love for news to my practical experiences and academic reflections
 
 ## Research
 
-Specifically, my research focuses on understanding (1) how people make decisions on media selection? (2) how a technology-shaped environment functions, where the environment is regarded as a market-based situation: demand, supply and currency(“attention”) (3) how political power is engaged in the “mediatization” process(e.g. by social curation and circulation)  and its unexpected consequence.
+My research focuses on understanding (1) how people make decisions on media selection? (2) how a technology-shaped environment functions, where the environment is regarded as a market-based situation: demand, supply and currency(“attention”) (3) how political power is engaged in the “mediatization” process(e.g. by social curation and circulation)  and its unexpected consequence.
 
 #### Party media preference in China 
 
