@@ -21,7 +21,10 @@ From a simple love for news to my practical experiences and academic reflections
 
 ## Research
 
-My research focuses on understanding (1) how people make decisions on media selection? (2) how a technology-shaped environment functions, where the environment is regarded as a market-based situation: demand, supply and currency(“attention”) (3) how political power is engaged in the “mediatization” process(e.g. by social curation and circulation)  and its unexpected consequence.
+I use quantitative and computational methods in my research, which aims to understanding: 
+- how people make decisions on media selection? 
+- how a technology-shaped environment functions, where the environment is regarded as a market-based situation: demand, supply and currency (“attention”) 
+- how political power is engaged in the “mediatization” process (e.g. by social curation and circulation)  and its unexpected consequence.
 
 <!-- #### Party media preference in China 
 
@@ -59,10 +62,10 @@ Nelson and Lewis pointed out that “folk fact-checking” may have contributed 
 ##### Keywords: journalistic authority, cynicism
 
 Academically, I have been influenced by my B.A. advisor, which led me to consciously explore the impact of theory and history on journalism research and communication sociology. The emphasis on politics/power from my advisor also affected me. In fact, I find myself caught between quantitative methodology and theoretical exploration. I am both fascinated by the pursuit of certainty and robust evidence, meanwhile believe that academia should not be completely detached from politics or personal perspectives. It is essential to maintain a focus on the humanistic spirit within theory and research, for example, _theory-oriented empirical research_. -->
-
+<!-- 
 ### Methodology
 
-Methodologically, I lean towards computational/quantitative methods, including traditional inferential statistics, network analysis and NLP.
+Methodologically, I lean towards computational/quantitative methods, including traditional inferential statistics, network analysis and NLP. -->
 
 
 <!-- I have a strong passion for computational social sciences, an exciting and rapidly-evolving interdisciplinary field. My learning journey includes basic maths[calculus(2020), linear algebra(2021)], traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), intermediate social statistics(2022), social network analysis(2022), algebra of expectations(2023), econometrics(2023), machine learning(2023), python data science(2023), R programming(2023), intro to computational social science(2023), structural equation model(2023), survival analysis(2023), agent-based modeling(2023), DID and RD method(2023), Factor analysis(2024), Large Language Model(2024), complex network analysis(2024), societal AI(2024)...
