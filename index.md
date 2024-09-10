@@ -12,41 +12,41 @@ layout: default
 
 For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com) or [liuruomeng@ucass.edu.cn](mailto:liuruomeng@ucass.edu.cn) -->
 
-**Ruomeng** is an M.Phil. student at [Journalism and Media Studies Centre, The University of Hong Kong](https://jmsc.hku.hk/), supervised by Prof. [King-wa Fu](https://sites.google.com/site/fukingwa/). He obtained B.A. at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm), advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/bsxz/202405/t20240517_5752230.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [Chinese Academy of Social Sciences](http://casseng.cssn.cn/). Ruomeng also studied at [University of California, Davis](https://communication.ucdavis.edu/) for the 2022fall quarter. 
+**Ruomeng** is an M.Phil. student at [Journalism and Media Studies Centre, The University of Hong Kong](https://jmsc.hku.hk/), supervised by Prof. [King-wa Fu](https://sites.google.com/site/fukingwa/). He obtained B.A. at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) in 2024, advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/bsxz/202405/t20240517_5752230.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [Chinese Academy of Social Sciences](http://casseng.cssn.cn/). Ruomeng also studied at [University of California, Davis](https://communication.ucdavis.edu/) in 2022 fall. 
 
 
 Ruomeng’s research interests include political communication, media cognition and computational social science. Today’s media environment, with high-choice and uncertainty as characteristics, encourage the media scholars to advance the understanding of decision-making, on both individual-level and societal level. 
 
-From a simple love for news to my practical experiences and academic reflections on media during my university years, he have always sought to connect intellectual inquiry with real-life encounters. During [high school](http://www.scmyzx.com.cn/pcweb/index.htm), Ruomeng developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened his interest in print media. At his early time, Ruomeng developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://www.youtube.com/@chaijing2023) and Li Haipeng were his favorite feature reporters.
+From a simple love for news to my practical experiences and academic reflections on media during undergraduate years, he have always sought to connect intellectual inquiry with real-life encounters. During [high school](http://www.scmyzx.com.cn/pcweb/index.htm), Ruomeng developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened his interest in print media. At his early time, Ruomeng developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://www.youtube.com/@chaijing2023) and Li Haipeng were his favorite feature reporters.
 
 ## Research
 
 My research focuses on understanding (1) how people make decisions on media selection? (2) how a technology-shaped environment functions, where the environment is regarded as a market-based situation: demand, supply and currency(“attention”) (3) how political power is engaged in the “mediatization” process(e.g. by social curation and circulation)  and its unexpected consequence.
 
-#### Party media preference in China 
+<!-- #### Party media preference in China 
 
 The first research investigates the “demand” of party media in China by empirical evidence.  Government-controlled media outlets take a key position in the media landscape in authoritarian  political regimes (Simnov, 2022). Chinese scholars have reviewed the supply side of the resurgence of Chinese party media - party media’s strategies (Kecheng Fang, 2016), state-preneurship journalism innovation (Kecheng Fang and Repnikova, 2022) and Chinese news group system (Haiyan Wang, 2019). This paper took the demand perspective to fix the gap that remained, by variable analysis of people’s psychological concepts. We developed the concept of “relational trust”( guanxi trust) in the context of communication. Following the cultural explanation “ the differential mode of association” proposed by Xiaotong Fei, Zhai used this concept to illustrate how Chinese people strategically and emotionally build and maintain mutual trust. Using survey data and mediation models, this paper finds that positive affective perception and negative affective perception play different roles in the mechanical process. Additionally, we argued that media outlet and the concepts (e.g. media trust)where based ought to be in continuous measurement (Strömbäck Jesper, 2020), in time and spatial way.
 * Working Paper: Ruomeng Liu, Qinuo Yang, Wen Wang and Xuwei Yang. “Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perception.” ([pdf](/assets/Examining_the_Impact_of_Relational_Trust_on_Preferential_Use_of_Party_Media__Based_on_a_Mediating_Effect_Model_of_Affective_Perception.pdf))
 
-##### keywords: authoritarian political communication, digital journalism, cultural-psychology
+##### keywords: authoritarian political communication, digital journalism, cultural-psychology -->
 
 
 
-#### Network actor analysis in COVID-19 discussion
+<!-- #### Network actor analysis in COVID-19 discussion
 
 The multiplicity of actors in COVID-19 infodemic provide a lens to look at how heterogeneous clusters take connective actions. Based on the ANT and hybrid media system (Chadwick, 2016), I followed the framework of Yini Zhang’s understanding of attention-driven political communication and network approach to advance the understanding of actors’ network amplification and attention cycle. Complex network analysis and a 10% random sample of Weibo-COV dataset showed that official media outlet amplified the topic of “anti-pandemic propaganda”. Politicized social media influencer put much attention on the topic of “cross countries policy comparison”, which is highly related to conspiracy and misinformation.([data](https://github.com/nghuyong/weibo-cov), [code](https://github.com/ruomeng6/weibo-network-actor-analysis-2019-2020)
 )
 
-##### Keywords: misinformation, attention, curated flows
+##### Keywords: misinformation, attention, curated flows -->
 
 
-#### The “myth” of media multitasking
+<!-- #### The “myth” of media multitasking
 
 Zheng Wang and John M. Tchernev (2012) have explored the contradiction implied by laboratory findings and the increasing popularity of media multitasking. Dynamic choice mode, multiple dimensions, resource deployment were considered. This paper attempts to aggregate the existing understanding of media multitasking and propose a feasible theoretical framework as the foundation of agent-based modeling. The framework contains factors, decision process and outcome, and as a circulation, a part of outcome contributes to the factors as feedback. We employed the media selection (Xuanjun Gong and Richard Huskey) / exploration-exploitation model, quantum cognition model and media affordance to set the interaction rules and iteration conditions. At last, we compare the empirical data and agent-based modeling to verify the validity of stimulation.([github]())
 
-##### Keywords: media cognition, media selection, saturation age
+##### Keywords: media cognition, media selection, saturation age -->
 
-#### Insulting China in indiscrimination
+<!-- #### Insulting China in indiscrimination
 
 Insulting China has been a viral term on social media. One of the controversies pointed out the term is being generalization - manifested in the expansion of the context use and indiscriminate targeting of the attack. This study attempts to employed a social physics model called “shockwave” to provide a mechanistic explanation. Broadly we investigate how individual’s everyday nationalism decisions evolve into collective actions. Digital vigilantism theory and digital nationalism pictured that nationalists’ mediated “policing” (everyday censorship, struggle and decision) driven by identity and justice/moral concern to the mediated “denunciation”, and then, within the conditions of mediated visibility to evolve as societal-level phenomenon. We test research hypothesis and compare the simulation results with the historical event data.
 
@@ -58,13 +58,14 @@ Nelson and Lewis pointed out that “folk fact-checking” may have contributed 
 
 ##### Keywords: journalistic authority, cynicism
 
-Academically, I have been influenced by my B.A. advisor, which led me to consciously explore the impact of theory and history on journalism research and communication sociology. The emphasis on politics/power from my advisor also affected me. In fact, I find myself caught between quantitative methodology and theoretical exploration. I am both fascinated by the pursuit of certainty and robust evidence, meanwhile believe that academia should not be completely detached from politics or personal perspectives. It is essential to maintain a focus on the humanistic spirit within theory and research, for example, _theory-oriented empirical research_.
+Academically, I have been influenced by my B.A. advisor, which led me to consciously explore the impact of theory and history on journalism research and communication sociology. The emphasis on politics/power from my advisor also affected me. In fact, I find myself caught between quantitative methodology and theoretical exploration. I am both fascinated by the pursuit of certainty and robust evidence, meanwhile believe that academia should not be completely detached from politics or personal perspectives. It is essential to maintain a focus on the humanistic spirit within theory and research, for example, _theory-oriented empirical research_. -->
 
 ### Methodology
 
-Methodologically, I lean towards computational/quantitative methods, including traditional inferential statistics, while also expanding my knowledge of popular machine learning algorithms. 
+Methodologically, I lean towards computational/quantitative methods, including traditional inferential statistics, network analysis and NLP.
 
-I have a strong passion for computational social sciences, an exciting and rapidly-evolving interdisciplinary field. My learning journey includes basic maths[calculus(2020), linear algebra(2021)], traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), intermediate social statistics(2022), social network analysis(2022), algebra of expectations(2023), econometrics(2023), machine learning(2023), python data science(2023), R programming(2023), intro to computational social science(2023), structural equation model(2023), survival analysis(2023), agent-based modeling(2023), DID and RD method(2023), Factor analysis(2024), Large Language Model(2024), complex network analysis(2024), societal AI(2024)...
+
+<!-- I have a strong passion for computational social sciences, an exciting and rapidly-evolving interdisciplinary field. My learning journey includes basic maths[calculus(2020), linear algebra(2021)], traditional quantitative research methods(survey, content analysis and experiment)(2021), quatitative social science(2022), intermediate social statistics(2022), social network analysis(2022), algebra of expectations(2023), econometrics(2023), machine learning(2023), python data science(2023), R programming(2023), intro to computational social science(2023), structural equation model(2023), survival analysis(2023), agent-based modeling(2023), DID and RD method(2023), Factor analysis(2024), Large Language Model(2024), complex network analysis(2024), societal AI(2024)...
 
 ### Current Library
 
@@ -90,7 +91,7 @@ I have a strong passion for computational social sciences, an exciting and rapid
 -  Reading (Philosophy, Theories, Novels), Movies
 -  Hiking
 -  Cooking
--  Painting
+-  Painting -->
 
 <!-- ```js
 // Javascript code with syntax highlighting.
