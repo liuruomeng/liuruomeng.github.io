@@ -5,26 +5,43 @@ layout: default
 
 # About Ruomeng
 
-<!-- ## links
-### [Curriculum Vitae](./another-page.html).
-
-### [Linkedin](https://www.linkedin.com/in/ruomeng-liu-a7745524b/).
-
-For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com) or [liuruomeng@ucass.edu.cn](mailto:liuruomeng@ucass.edu.cn) -->
-
-**Ruomeng** is an M.Phil. student at [Journalism and Media Studies Centre, The University of Hong Kong](https://jmsc.hku.hk/), supervised by Prof. [King-wa Fu](https://sites.google.com/site/fukingwa/). He obtained B.A. at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) in 2024, advised by Prof. [Fen Xiang](http://www.mediaresearch.cn/bsxz/202405/t20240517_5752230.shtml), [Institue of Journalism and Communication](http://www.mediaresearch.cn/), [CASS](http://casseng.cssn.cn/). Ruomeng also studied at [University of California, Davis](https://communication.ucdavis.edu/) in 2022 fall. 
 
 
-Ruomeng’s research interests include political communication, media cognition and computational social science. Today’s media environment, with high-choice and uncertainty as characteristics, encourage the media scholars to advance the understanding of decision-making, on both micro and macro level. 
+My name is **Ruomeng Liu**. I'm currently an M.Phil student at the University of Hong Kong, where I am affiliated with Journalism and Media Studies Centre ([JMSC](www.jmsc.hku.hk)) , Faculty of Social Sciences, supervised by Dr. [King-wa Fu](https://sites.google.com/site/fukingwa/).
 
-From a simple love for news to practical experiences and academic reflections on media during undergraduate years, he have always sought to connect intellectual inquiry with real-life encounters. During [high school](http://www.scmyzx.com.cn/pcweb/index.htm), Ruomeng developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened his interest in print media. At his early time, Ruomeng developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://www.youtube.com/@chaijing2023) and Li Haipeng were his favorite feature reporters.
+I am interested in political communication, media cognition and computational methods. I research in socio-techinical system deployed on individual-collective spectrum, and its political and societal implications.
+
+Prior to HKU, I received my bachelor's degree at University of Chinese Academy of Social Sciences, advised Dr. [Fen Xiang](http://www.mediaresearch.cn/bsxz/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/vitae.pdf).
 
 ## Research
 
-I use quantitative and computational methods in my research, which aims to understanding: 
-- how people make decisions on media selection? 
-- how a technology-shaped environment functions, where the environment is regarded as a market-based situation: demand, supply and currency (“attention”) 
-- how political power is engaged in the “mediatization” process (e.g. by social curation and circulation)  and its unexpected consequence.
+In general, my research interests focus on **political communication**, **media cognition**, and **causal inference**. I am also interested in emerging computational methodology, especially computational social science, artificial intelligence and computational modeling. 
+
+I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, social physics, social cognitive neuroscience and cultural sociology. These various interests focus on the following question:
+ 
+- How to formalize people's choice behavior on media/information?
+- The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency (“attention”) 
+- How contentious politics is engaged with the “mediatization” process, and its connection with knowledge production.
+
+**The *keywords* for my current work are: polarization, commonsense, identity, and causality.**
+
+My goal is to make connections across theoretical traditions via embracing communication theory as a metadiscourse, while advancing scholarly understanding of causality.
+
+### Works
+
+- Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perceptio.
+
+- Whose Voice Matter in COVID-19 Discussion? *A Network Actor Analysis Based on Weibo-COV Corpus (2019-2020).
+
+- The "Myth" of Media Multitasking? Quantum Cognition and Agent-based Modeling.
+
+- Common Sense in Polarized Discussion on Social Platforms
+
+- Causality and AI in Communication Research
+
+Other works and sources can be found at my [portfolio](./portfolio).
+
+
 
 <!-- #### Party media preference in China 
 
