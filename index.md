@@ -15,9 +15,9 @@ Prior to HKU, I received my bachelor's degree at University of Chinese Academy o
 
 ## Research
 
-In general, my research interests focus on **political communication**, **media cognition**, and **causal inference**. I am also interested in emerging computational methodology, especially computational social science, artificial intelligence and computational modeling. 
+In general, my research interests are **political communication**, **media cognition**, and **causal inference**. I am also interested in emerging computational methodology, especially computational social science, artificial intelligence and computational modeling. 
 
-I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, social physics, social cognitive neuroscience and cultural sociology. These various interests focus on the following question:
+I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, social physics, social cognitive neuroscience and cultural sociology. In light of the diverse interests, my research focuses on the following question:
  
 - How to formalize people's choice behavior on media/information?
 - The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency (“attention”) 
@@ -29,7 +29,7 @@ My goal is to make connections across theoretical traditions via embracing commu
 
 ### Works
 
-- Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perceptio.
+- Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perception.
 
 - Whose Voice Matter in COVID-19 Discussion? *A Network Actor Analysis Based on Weibo-COV Corpus (2019-2020).
 
