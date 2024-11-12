@@ -104,8 +104,9 @@ In 2022 summer, I brought a 10-day course "oral history and journalistic nostalg
 
 Political Theory Record was founded in January 2019 and has now become one of the largest social science academic public welfare platforms in China. Political Theory currently focuses on tracking new developments in political society, state theory, and political and economic research at home and abroad.
 
-* [Civilizing Social Media](https://mp.weixin.qq.com/s/qTGWz18ZsgTiBglnLBFjfA)
-* [Going with the flow](https://mp.weixin.qq.com/s/3P7aSUhO9DZvKgEt9mvqiQ)
+* [Civilizing Social Media: The effect of geolocation on the incivility of news comment](https://mp.weixin.qq.com/s/qTGWz18ZsgTiBglnLBFjfA)
+* [Going with the flow: Nudging attention online](https://mp.weixin.qq.com/s/3P7aSUhO9DZvKgEt9mvqiQ)
+* [Morality in Our Mind and Across Cultures and Politics](https://mp.weixin.qq.com/s/YWEXXh-TIt1tCIu7whfNMA)
 
 ## <a id="ARTICLES"></a> Others
 * [入选国际顶会，但去不了？](https://mp.weixin.qq.com/s/berxlUNRHbOTGn-iMdByBA)
