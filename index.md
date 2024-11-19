@@ -7,7 +7,7 @@ layout: default
 
 
 
-My name is **Ruomeng Liu**. I'm currently an M.Phil. student at the University of Hong Kong, where I am affiliated with Journalism and Media Studies Centre ([JMSC](www.jmsc.hku.hk)) , Faculty of Social Sciences, supervised by Dr. [King-wa Fu](https://sites.google.com/site/fukingwa/).
+My name is **Ruomeng Liu**. I'm currently an M.Phil. student at the University of Hong Kong, where I am affiliated with Journalism and Media Studies Centre ([JMSC](https://jmsc.hku.hk/)) , Faculty of Social Sciences, supervised by Dr. [King-wa Fu](https://sites.google.com/site/fukingwa/).
 
 I am interested in political communication, media cognition and computational methods. I research in socio-techinical system deployed on individual-collective spectrum, and its political and societal implications.
 
