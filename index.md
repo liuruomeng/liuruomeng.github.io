@@ -3,19 +3,16 @@ layout: default
 ---
 
 
-# About Ruomeng
 
+My name is Ruomeng Liu. I'm currently an M.Phil. student at the University of Hong Kong, where I am affiliated with Journalism and Media Studies Centre ([JMSC](https://jmsc.hku.hk/)) , Faculty of Social Sciences, supervised by Prof. [King-wa Fu](https://sites.google.com/site/fukingwa/).
 
+I use quantitative and computational methods to study the relationship between digital media and politics.
 
-My name is **Ruomeng Liu**. I'm currently an M.Phil. student at the University of Hong Kong, where I am affiliated with Journalism and Media Studies Centre ([JMSC](https://jmsc.hku.hk/)) , Faculty of Social Sciences, supervised by Dr. [King-wa Fu](https://sites.google.com/site/fukingwa/).
-
-I am interested in political communication, media cognition and computational methods. I research in socio-techinical system deployed on individual-collective spectrum, and its political and societal implications.
-
-Prior to HKU, I received my bachelor's degree at University of Chinese Academy of Social Sciences, advised Dr. [Fen Xiang](http://www.mediaresearch.cn/bsxz/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/vitae.pdf).
+Prior to HKU, I received my bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/Vitae.pdf).
 
 ## Research
 
-In general, my research interests are **political communication**, **media cognition**, and **causal inference**. I am also interested in emerging computational methodology, especially computational social science, artificial intelligence and computational modeling. 
+In general, my research interests are political communication, media cognition, and causal inference. I am also interested in emerging computational methodology, especially computational social science, artificial intelligence and computational modeling. 
 
 I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, social physics, social cognitive neuroscience and cultural sociology. In light of the diverse interests, my research focuses on the following question:
  
@@ -23,20 +20,14 @@ I am particularly open and passionate about interdisciplinary theory and methodo
 - The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency (“attention”) 
 - How contentious politics is engaged with the “mediatization” process, and its connection with knowledge production.
 
-**The *keywords* for my current work are: polarization, commonsense, identity, and causality.**
-
-My goal is to make connections across theoretical traditions via embracing communication theory as a metadiscourse, while advancing scholarly understanding of causality.
+The *keywords* for my current work are: polarization, commonsense, identity, and causality.
 
 ### Works
 
 - Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perception.
-
 - Whose Voice Matter in COVID-19 Discussion? *A Network Actor Analysis Based on Weibo-COV Corpus (2019-2020).
-
 - The "Myth" of Media Multitasking? Quantum Cognition and Agent-based Modeling.
-
 - Common Sense in Polarized Discussion on Social Platforms
-
 - Causality and AI in Communication Research
 
 Other works and sources can be found at my [portfolio](./portfolio).
