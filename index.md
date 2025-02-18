@@ -8,7 +8,7 @@ My name is Ruomeng Liu. I'm currently an M.Phil. student at the University of Ho
 
 I use quantitative and computational methods to study the relationship between digital media and politics.
 
-Prior to HKU, I received my bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/Vitae.pdf).
+Prior to HKU, I received my bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/vitae.pdf).
 
 ## Research
 
