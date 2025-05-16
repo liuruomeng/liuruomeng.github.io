@@ -8,7 +8,7 @@ My name is Ruomeng Liu. I'm currently an M.Phil. student at the University of Ho
 
 I use quantitative and computational methods to study the relationship between digital media and politics.
 
-Prior to HKU, I received my bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/vitae.pdf).
+Prior to HKU, I received bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/vitae.pdf).
 
 ## Research
 
@@ -20,9 +20,9 @@ I am particularly open and passionate about interdisciplinary theory and methodo
 - The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency (“attention”) 
 - How contentious politics is engaged with the “mediatization” process, and its connection with knowledge production.
 
-The *keywords* for my current work are: polarization, commonsense, identity, and causality.
+The *keywords* for my current work are: polarization, common sense, identity, and causality.
 
-### Works
+<!-- ### Works
 
 - Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perception.
 - Whose Voice Matter in COVID-19 Discussion? *A Network Actor Analysis Based on Weibo-COV Corpus (2019-2020).
@@ -30,7 +30,7 @@ The *keywords* for my current work are: polarization, commonsense, identity, and
 - Common Sense in Polarized Discussion on Social Platforms
 - Causality and AI in Communication Research
 
-Other works and sources can be found at my [portfolio](./portfolio).
+Other works and sources can be found at my [portfolio](./portfolio). -->
 
 
 
