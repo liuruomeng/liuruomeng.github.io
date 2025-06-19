@@ -8,7 +8,7 @@ My name is Ruomeng Liu. I'm currently an M.Phil. student at the University of Ho
 
 I use quantitative and computational methods to study the relationship between digital media and politics.
 
-Prior to HKU, I received bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/vitae.pdf).
+Prior to HKU, I received bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/pdfs/vitae.pdf).
 
 ## Research
 
@@ -17,8 +17,8 @@ In general, my research interests are political communication, media cognition, 
 I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, social physics, social cognitive neuroscience and cultural sociology. In light of the diverse interests, my research focuses on the following question:
  
 - How to formalize people's choice behavior on media/information?
-- The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency (“attention”) 
-- How contentious politics is engaged with the “mediatization” process, and its connection with knowledge production.
+- The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency ("attention") 
+- How contentious politics is engaged with the "mediatization" process, and its connection with knowledge production.
 
 The *keywords* for my current work are: polarization, common sense, identity, and causality.
 
@@ -36,8 +36,8 @@ Other works and sources can be found at my [portfolio](./portfolio). -->
 
 <!-- #### Party media preference in China 
 
-The first research investigates the “demand” of party media in China by empirical evidence.  Government-controlled media outlets take a key position in the media landscape in authoritarian  political regimes (Simnov, 2022). Chinese scholars have reviewed the supply side of the resurgence of Chinese party media - party media’s strategies (Kecheng Fang, 2016), state-preneurship journalism innovation (Kecheng Fang and Repnikova, 2022) and Chinese news group system (Haiyan Wang, 2019). This paper took the demand perspective to fix the gap that remained, by variable analysis of people’s psychological concepts. We developed the concept of “relational trust”( guanxi trust) in the context of communication. Following the cultural explanation “ the differential mode of association” proposed by Xiaotong Fei, Zhai used this concept to illustrate how Chinese people strategically and emotionally build and maintain mutual trust. Using survey data and mediation models, this paper finds that positive affective perception and negative affective perception play different roles in the mechanical process. Additionally, we argued that media outlet and the concepts (e.g. media trust)where based ought to be in continuous measurement (Strömbäck Jesper, 2020), in time and spatial way.
-* Working Paper: Ruomeng Liu, Qinuo Yang, Wen Wang and Xuwei Yang. “Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perception.” ([pdf](/assets/Examining_the_Impact_of_Relational_Trust_on_Preferential_Use_of_Party_Media__Based_on_a_Mediating_Effect_Model_of_Affective_Perception.pdf))
+The first research investigates the "demand" of party media in China by empirical evidence.  Government-controlled media outlets take a key position in the media landscape in authoritarian  political regimes (Simnov, 2022). Chinese scholars have reviewed the supply side of the resurgence of Chinese party media - party media's strategies (Kecheng Fang, 2016), state-preneurship journalism innovation (Kecheng Fang and Repnikova, 2022) and Chinese news group system (Haiyan Wang, 2019). This paper took the demand perspective to fix the gap that remained, by variable analysis of people's psychological concepts. We developed the concept of "relational trust"( guanxi trust) in the context of communication. Following the cultural explanation " the differential mode of association" proposed by Xiaotong Fei, Zhai used this concept to illustrate how Chinese people strategically and emotionally build and maintain mutual trust. Using survey data and mediation models, this paper finds that positive affective perception and negative affective perception play different roles in the mechanical process. Additionally, we argued that media outlet and the concepts (e.g. media trust)where based ought to be in continuous measurement (Strömbäck Jesper, 2020), in time and spatial way.
+* Working Paper: Ruomeng Liu, Qinuo Yang, Wen Wang and Xuwei Yang. "Examining the Impact of Relational Trust on Preferential Use of Party Media in China: Based on a Mediating Effect Model of Affective Perception." ([pdf](/assets/pdfs/Examining_the_Impact_of_Relational_Trust_on_Preferential_Use_of_Party_Media__Based_on_a_Mediating_Effect_Model_of_Affective_Perception.pdf))
 
 ##### keywords: authoritarian political communication, digital journalism, cultural-psychology -->
 
@@ -45,13 +45,13 @@ The first research investigates the “demand” of party media in China by empi
 
 <!-- #### Network actor analysis in COVID-19 discussion
 
-The multiplicity of actors in COVID-19 infodemic provide a lens to look at how heterogeneous clusters take connective actions. Based on the ANT and hybrid media system (Chadwick, 2016), I followed the framework of Yini Zhang’s understanding of attention-driven political communication and network approach to advance the understanding of actors’ network amplification and attention cycle. Complex network analysis and a 10% random sample of Weibo-COV dataset showed that official media outlet amplified the topic of “anti-pandemic propaganda”. Politicized social media influencer put much attention on the topic of “cross countries policy comparison”, which is highly related to conspiracy and misinformation.([data](https://github.com/nghuyong/weibo-cov), [code](https://github.com/ruomeng6/weibo-network-actor-analysis-2019-2020)
+The multiplicity of actors in COVID-19 infodemic provide a lens to look at how heterogeneous clusters take connective actions. Based on the ANT and hybrid media system (Chadwick, 2016), I followed the framework of Yini Zhang's understanding of attention-driven political communication and network approach to advance the understanding of actors' network amplification and attention cycle. Complex network analysis and a 10% random sample of Weibo-COV dataset showed that official media outlet amplified the topic of "anti-pandemic propaganda". Politicized social media influencer put much attention on the topic of "cross countries policy comparison", which is highly related to conspiracy and misinformation.([data](https://github.com/nghuyong/weibo-cov), [code](https://github.com/ruomeng6/weibo-network-actor-analysis-2019-2020)
 )
 
 ##### Keywords: misinformation, attention, curated flows -->
 
 
-<!-- #### The “myth” of media multitasking
+<!-- #### The "myth" of media multitasking
 
 Zheng Wang and John M. Tchernev (2012) have explored the contradiction implied by laboratory findings and the increasing popularity of media multitasking. Dynamic choice mode, multiple dimensions, resource deployment were considered. This paper attempts to aggregate the existing understanding of media multitasking and propose a feasible theoretical framework as the foundation of agent-based modeling. The framework contains factors, decision process and outcome, and as a circulation, a part of outcome contributes to the factors as feedback. We employed the media selection (Xuanjun Gong and Richard Huskey) / exploration-exploitation model, quantum cognition model and media affordance to set the interaction rules and iteration conditions. At last, we compare the empirical data and agent-based modeling to verify the validity of stimulation.([github]())
 
@@ -59,13 +59,13 @@ Zheng Wang and John M. Tchernev (2012) have explored the contradiction implied b
 
 <!-- #### Insulting China in indiscrimination
 
-Insulting China has been a viral term on social media. One of the controversies pointed out the term is being generalization - manifested in the expansion of the context use and indiscriminate targeting of the attack. This study attempts to employed a social physics model called “shockwave” to provide a mechanistic explanation. Broadly we investigate how individual’s everyday nationalism decisions evolve into collective actions. Digital vigilantism theory and digital nationalism pictured that nationalists’ mediated “policing” (everyday censorship, struggle and decision) driven by identity and justice/moral concern to the mediated “denunciation”, and then, within the conditions of mediated visibility to evolve as societal-level phenomenon. We test research hypothesis and compare the simulation results with the historical event data.
+Insulting China has been a viral term on social media. One of the controversies pointed out the term is being generalization - manifested in the expansion of the context use and indiscriminate targeting of the attack. This study attempts to employed a social physics model called "shockwave" to provide a mechanistic explanation. Broadly we investigate how individual's everyday nationalism decisions evolve into collective actions. Digital vigilantism theory and digital nationalism pictured that nationalists' mediated "policing" (everyday censorship, struggle and decision) driven by identity and justice/moral concern to the mediated "denunciation", and then, within the conditions of mediated visibility to evolve as societal-level phenomenon. We test research hypothesis and compare the simulation results with the historical event data.
 
 ##### Keywords: digital vigilantism, nationalism, online collective action
 
 #### Mundane media cynicism 
 
-Nelson and Lewis pointed out that “folk fact-checking” may have contributed to the audience’s rebellion against journalism. Anti-institutional sentiment and general distrust of all reliable information, including professional news organizations let this paper focuses on the concept of cynicism. In the journalism-public relations literature, trust has long took a dominant role. However, first, distrust and trust don’s construct a verse relationship. In the digital age with uncertainty as the key feature, negative perception like cynicism, skepticism worth more attention. Also, empirical studies showed that the trust and news behavior may not coincide. Draw on the literature of media cynicism by Capella and political cynicism, this research aims to resolve the existing shortcomings of media trust research by developing a new concept, with low perceived efficacy and high expected uncertainty as important components.
+Nelson and Lewis pointed out that "folk fact-checking" may have contributed to the audience's rebellion against journalism. Anti-institutional sentiment and general distrust of all reliable information, including professional news organizations let this paper focuses on the concept of cynicism. In the journalism-public relations literature, trust has long took a dominant role. However, first, distrust and trust don's construct a verse relationship. In the digital age with uncertainty as the key feature, negative perception like cynicism, skepticism worth more attention. Also, empirical studies showed that the trust and news behavior may not coincide. Draw on the literature of media cynicism by Capella and political cynicism, this research aims to resolve the existing shortcomings of media trust research by developing a new concept, with low perceived efficacy and high expected uncertainty as important components.
 
 ##### Keywords: journalistic authority, cynicism
 

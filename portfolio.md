@@ -51,13 +51,13 @@ _Spring News_ is a student newspaper sponsored by the School of Journalism and C
 
 * [岁末年初的他们都在忙着道歉 - 七日](https://mp.weixin.qq.com/s/hSYWvXIR5qOR9Effxywsdg) （作者）
 * [长赐号搁浅堵塞航路，张恒案二审维持原判 - 七日](https://mp.weixin.qq.com/s/3JhLoGvc9IXlEENlPdwYUg) （编辑）
-* [天降三孩，又多了个儿童过“六一” - 七日](https://mp.weixin.qq.com/s/DFONXjIdUWO_lmOhC7Sh8g)（编辑）
+* [天降三孩，又多了个儿童过"六一" - 七日](https://mp.weixin.qq.com/s/DFONXjIdUWO_lmOhC7Sh8g)（编辑）
 * [七日 - 杀人案败法乱纪，网约车风波迭起](https://mp.weixin.qq.com/s/LhNWQdbZYDwA8WOScEc71A)（编辑）
 * [七日 - 阿里暗夜时刻：一位女性的挣扎与决心](https://mp.weixin.qq.com/s/OPi_9awRAS4Jr5MEUEmPow)（编辑）
 * [七日 - 暴雨之中的力量与守望](https://mp.weixin.qq.com/s/E0V_pVQN7y0MI3usRHQViQ)（编辑）
 * [七日 - 自驾游连起全国大疫](https://mp.weixin.qq.com/s/in5h6lQV8ZA-qwjHl6682Q)（编辑）
 
-* [“永不消逝”的噪声：明辨楼电钻何时休？](https://mp.weixin.qq.com/s/Fa7TqTdXLncwhUoC5Dk0fg)（记者、编辑）
+* ["永不消逝"的噪声：明辨楼电钻何时休？](https://mp.weixin.qq.com/s/Fa7TqTdXLncwhUoC5Dk0fg)（记者、编辑）
 
 
 ## <a id="PR"></a>CKGSB WeChat Official Content
@@ -66,8 +66,8 @@ I got an internship at Cheung Kong Graduate School of Business in the spring of 
 
 * [以远见超越未见 - 最受长江读者欢迎的20本书](https://mp.weixin.qq.com/s/WvFHzQUE1NioLkxsnvzyGw)
 * [真正的高手，都有结构性思维 - 长江读书400期](https://mp.weixin.qq.com/s/nUFmI0doQ-mrfVvJ9yny_Q)
-* [北大长江携手，第十届“儒商论域” 全议程发布！](https://mp.weixin.qq.com/s/2fvTeS0dmuIBRybj8r3gjA)
-* [“到中东去”何以成为中企出海的新热潮？](https://mp.weixin.qq.com/s/ITVz2e74N41zCNTS2ON7rg)
+* [北大长江携手，第十届"儒商论域" 全议程发布！](https://mp.weixin.qq.com/s/2fvTeS0dmuIBRybj8r3gjA)
+* ["到中东去"何以成为中企出海的新热潮？](https://mp.weixin.qq.com/s/ITVz2e74N41zCNTS2ON7rg)
 * [竞争对算法创新的影响，曹辉宁、孙宝红教授合作论文在管理学顶刊发表 - 长江学术](https://mp.weixin.qq.com/s/RJHFAWdgY6GhkFOVZCNCNA)
 * [12位独角兽创始人的20条创业思考 - 五四青年节](https://mp.weixin.qq.com/s/_t_w_16zVRgdW9MO7ygePw)
 * [项兵院长受邀出席第26届哈佛中国论坛，任欢迎式首位主旨嘉宾](https://mp.weixin.qq.com/s/PnZ0kA0hZalAgUJN_DVYYw)
@@ -97,7 +97,7 @@ Founded in 2016, Project Nous is a public welfare education program voluntarily 
 
 In 2022 summer, I brought a 10-day course "oral history and journalistic nostalgia" to the Mianyang camp. The course aims to observe the resurgence of oral tradition and its culture. Also, it focuses on the individual's narratives, marginalized groups and community memory. In addition to that, we discuss its impact on today's journalism practice.
 
-* [Syllabus](/assets/syllabus_oral_history%20.pdf)
+* [Syllabus](/assets/pdfs/syllabus_oral_history%20.pdf)
 * [MEDIA PRESENCE](https://mp.weixin.qq.com/s/gjgRXQuEWTRbsgJqE0bSvg)
 
 ## Political Theory Record
@@ -131,29 +131,29 @@ Here are some of my course papers, they are not mature and well-developed, but I
 * [Analysis of the New York Times' Reporting Framework on Climate Change at COP24](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing) *In Chinese*
 
 #### sociology
-* [Reviews on Zhejiangcun Research From the Perspective of Trust](/assets/信任视角下的浙江村研究.pdf) *In Chinese*
+* [Reviews on Zhejiangcun Research From the Perspective of Trust](/assets/pdfs/信任视角下的浙江村研究.pdf) *In Chinese*
 * [Dialogue on the Spirit of Capitalism](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* 
 * [Chivalry and Knightship: A Cross-Cultural Interpretation of "Ever Night" ](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* 
-* [The German Ideology Reading Notes](/assets/德意志意识形态读书笔记.pdf)*In Chinese*
+* [The German Ideology Reading Notes](/assets/pdfs/德意志意识形态读书笔记.pdf)*In Chinese*
 
 #### history
 * [Oral History as Method From a Media Perspective](https://drive.google.com/file/d/1dndqL77vspiTx9uUlftdUGNRaJorEIzA/view?usp=sharing) *In Chinese* 
 
 #### computational/quantitative-methods
-* [Factors that Influencing Media Multitasking Behavior](/assets/mediamultitasking_machinelearning.pdf) *In Chinese* 
+* [Factors that Influencing Media Multitasking Behavior](/assets/pdfs/mediamultitasking_machinelearning.pdf) *In Chinese* 
 
 
-* [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing), [关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型](/assets/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf) *In Chinese* 
+* [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing), [The Impact of Relational Trust on Party Media Preference](/assets/pdfs/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf) *In Chinese* 
 
-* [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_preference.pdf),[appendix-figure](/assets/appendix_party%20media%20preference.pdf)
+* [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_preference.pdf),[appendix-figure](/assets/pdfs/appendix_party%20media%20preference.pdf)
 
 ## <a id="PRESENTATION"></a>conference presentation
 
-* [HKU css reading group](/assets/slides_quantify%20common%20sense.pdf)
-* [ICA postconference(2023 media sociology):Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
-* [MSC 2023:Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
+* [HKU css reading group](/assets/pdfs/slides_quantify%20common%20sense.pdf)
+* [ICA postconference slides](/assets/pdfs/ICA%20postconference_slides.pdf)
+* [MSC 2023:Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/pdfs/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
 
-<!-- * [ICA annual conference 2024: Using Agent-based Modeling to Explore the “Myth” of Media Multitasking](/assets/ABSTRACT_ICA2024.pdf)
+<!-- * [ICA annual conference 2024: Using Agent-based Modeling to Explore the "Myth" of Media Multitasking](/assets/pdfs/ABSTRACT_ICA2024.pdf)
 * [CIRC(Under consideration):Insulting CN](https://drive.google.com/file/d/1GoUCI619okfwERl4fQTBx2IjwC2VkkW-/view?usp=sharing) -->
 
 
