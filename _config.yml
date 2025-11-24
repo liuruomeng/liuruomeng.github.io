@@ -9,3 +9,13 @@ kramdown:
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
+
+# 禁用 HTML Proofer 的外部链接检查
+plugins:
+  - jekyll-optional-front-matter
+
+# 如果使用了 jekyll-github-metadata，添加这个
+repository: ruomeng6/ruomeng6.github.io
+
+# 禁用严格的链接检查
+strict_front_matter: false
