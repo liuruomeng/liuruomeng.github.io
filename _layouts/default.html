@@ -6,19 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-X4453YNQVP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-X4453YNQVP');
+    </script>
 
-  gtag('config', 'YOUR_TRACKING_ID');
-</script>
-
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      .profile-photo {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        display: block;
+        margin: 20px auto;
+        border: 3px solid #e0e0e0;
+      }
+    </style>
     {% include head-custom.html %}
   </head>
   <body>
@@ -26,12 +36,9 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-       
-      {% endif %}
-      
-      <p style="font-size: 12px;">{{ site.description | default: site.github.project_tagline }}</p>
-
+        <img src="{{ "/assets/img/profile.jpg" | relative_url }}" alt="Ruomeng Liu" class="profile-photo" />
+        
+        <p style="font-size: 12px;">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -40,11 +47,13 @@
         <!-- {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %} -->
-      
         
-        <p><a href="./assets/pdfs/CV_Oct.pdf">Curriculum Vitae</a></p>
+        <p><a href="./assets/pdfs/CV_PhD_App_Nov2025.pdf">CV</a></p>
         <!-- <p><a href="./portfolio.html">Portfolio</a></p> -->
-        <p> <a href = "mailto:ruomeng.6@connect.hku.hk">CONTACT</a> </p> 
+        <p><a href="mailto:ruomeng.6@connect.hku.hk">Email</a></p>
+        <p><a href="https://github.com/liuruomeng">GitHub</a></p>
+        <p><a href="https://osf.io/278j5/">OSF</a></p>
+        <p><a href="https://orcid.org/0009-0002-6311-8869">ORCID</a></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -61,12 +70,10 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small> </p>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small><a href="https://x.com/liu_ruomeng">@Ruomeng Liu on X</a></p>
-        
-        <p><small><a href = "https://www.linkedin.com/in/ruomeng-liu/">Ruomeng on Linkedin</a></small></p>
-        <p><small><a href = "https://github.com/ruomeng6">Ruomeng on Github</a></small></p>
+        <p><small><a href="https://www.linkedin.com/in/ruomeng-liu/">LinkedIn</a></small></p>
+        <p><small><a href="https://x.com/liu_ruomeng">X</a></small></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>

@@ -30,3 +30,19 @@
     background-color: #e7f0fd; /* 鼠标悬停时的背景色 */
     color: #1a5a7a; /* 鼠标悬停时文字颜色加深 */
 }
+
+.profile-photo {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  display: block;
+  margin: 20px 0;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  
+}
+
+header h1 {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}

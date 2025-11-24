@@ -4,23 +4,34 @@ layout: default
 
 
 
-My name is Ruomeng Liu. I'm currently an M.Phil. student at the University of Hong Kong, where I am affiliated with Journalism and Media Studies Centre ([JMSC](https://jmsc.hku.hk/)) , Faculty of Social Sciences, supervised by Prof. [King-wa Fu](https://sites.google.com/site/fukingwa/).
+My name is Ruomeng Liu ([How to pronounce](https://translate.google.com/?sl=auto&tl=zh-CN&text=%E5%88%98%E8%8B%A5%E8%92%99&op=translate): "RWO-mung Lee-YOU"). I am currently an M.Phil. candidate at [the University of Hong Kong (HKU)](https://www.hku.hk/), where I am affiliated with Journalism & Media Studies Centre ([JMSC](https://jmsc.hku.hk/)) , Faculty of Social Sciences, supervised by Prof. [King-wa Fu](https://sites.google.com/site/fukingwa/).
+ 
 
-I use quantitative and computational methods to study the relationship between digital media and politics.
+I received bachelor's degree at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm), advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml).
 
-Prior to HKU, I received bachelor's degree at University of Chinese Academy of Social Sciences, advised by Prof. [Fen Xiang](http://mediaresearch.cn/bsxz/mkszyyjs/202405/t20240517_5752230.shtml). More information can be found at my [vitae](./assets/pdfs/CV_Oct.pdf).
+# Research
 
-## Research
+My research focuses on political communication, information systems, and media cognition in digital media contexts. I use computational and experimental methods to understand how attention, knowledge, decisions, and communication are affected by high-choice media envrionments, and its political consequences.
 
-In general, my research interests are political communication, media cognition, and causal inference. I am also interested in emerging computational methodology, especially computational social science, artificial intelligence and computational modeling. 
+Methodologically, I'm interested in designing and improving computational methods, especially around measurement problems and model/analytical considerations in causal inference. I'm particularly drawn to questions about the commensurability of different research designs and what each can—and cannot—tell us.
 
-I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, social physics, social cognitive neuroscience and cultural sociology. In light of the diverse interests, my research focuses on understanding how people make decisions in a high-choice media environment and its political consequences and implications.
+I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, behavioral economics, cognitive science, philosophy of science, cultural sociology, and social physics.
+
+
+Some questions I am currently working on:
  
 - How to formalize people's choice behavior on media/information?
 - The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency ("attention") 
-- How contentious politics is engaged with the "mediatization" process, and its connection with knowledge production.
+- How contentious politics is engaged with the "mediatization" process, and its connection with knowledge production?
 
-The *keywords* for my current work are: polarization, common sense, identity, and causality.
+Current keywords: polarization, misperception, common sense, identity, and causality.
+
+# Teaching
+
+## HKU
+JMSC6116/2032/MSDA7105: Media Data Analysis/Digital Media Analytics - Teaching Assistant, JMSC
+
+CCGL9011: Media in the Age of Globalization - Teaching Assistant & Tutor for Undergraduate Tutorial, Common Core
 
 
 
