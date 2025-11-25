@@ -13,7 +13,7 @@ I received bachelor's degree at [University of Chinese Academy of Social Science
 
 My research focuses on political communication, information systems, and media cognition in digital media contexts. I use computational and experimental methods to understand how attention, knowledge, decisions, and communication are affected by high-choice media envrionments, and its political consequences.
 
-Methodologically, I'm interested in designing and improving computational methods, especially around measurement problems and model/analytical considerations in causal inference. I'm particularly drawn to questions about the commensurability of different research designs and what each can—and cannot—tell us.
+Methodologically, I'm interested in designing and improving computational methods, especially around measurement problems and model/analytical considerations in causal inference. I'm particularly drawn to questions about the commensurability of different research designs and what each can and cannot tell us.
 
 I am particularly open and passionate about interdisciplinary theory and methodology, including decision science, behavioral economics, cognitive science, philosophy of science, cultural sociology, and social physics.
 
