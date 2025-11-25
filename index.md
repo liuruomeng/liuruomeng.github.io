@@ -19,12 +19,12 @@ I am particularly open and passionate about interdisciplinary theory and methodo
 
 
 Some questions I am currently working on:
- 
+
 - How to formalize people's choice behavior on media/information?
 - The "Political Economy" of an identity-driven information ecosystem, where the environment is regarded as a market-based situation: demand, supply and currency ("attention") 
 - How contentious politics is engaged with the "mediatization" process, and its connection with knowledge production?
 
-Current keywords: polarization, misperception, common sense, identity, and causality.
+Keywords: polarization, （mis）perception, common sense, identity, and causality.
 
 # Teaching
 
