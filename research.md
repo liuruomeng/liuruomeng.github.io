@@ -34,7 +34,7 @@ The full list is in my [CV]({{ '/cv/' | relative_url }}).
   </li>
   <li>
     <span class="pub-title"><strong>Examining the Impact of Relational Trust on Preferential Use of Party Media in China: A Mediating Effect Model of Affective Perception.</strong></span><br>
-    <span class="pub-authors"><strong>Ruomeng Liu</strong>, Qinuo Yang, Wen Wang, Xuwei Yang.</span><br>
+    <span class="pub-authors">Ruomeng Liu, Qinuo Yang, Wen Wang, Xuwei Yang.</span><br>
     <span class="pub-meta">
       <a href="{{ '/assets/pdfs/Examining_the_Impact_of_Relational_Trust_on_Preferential_Use_of_Party_Media__Based_on_a_Mediating_Effect_Model_of_Affective_Perception.pdf' | relative_url }}">PDF</a>
       <a href="https://github.com/ruomeng6/party-media-survey-data">Data</a>
