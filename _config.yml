@@ -1,21 +1,65 @@
-title: Ruomeng Liu
-logo:
-description:  The University of Hong Kong
+title: "Ruomeng Liu"
+tagline: ""
+description: "M.Phil. candidate, JMSC, The University of Hong Kong"
+author: "Ruomeng Liu"
+#email: "ruomeng.6@connect.hku.hk"
+baseurl: ""
+url: "https://liuruomeng.github.io"
+lang: "en"
+
+markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
   auto_ids: true
-  toc_levels: 1..6
 
-show_downloads: False
-google_analytics:
-theme: jekyll-theme-minimal
+permalink: pretty
+strict_front_matter: false
 
-# 禁用 HTML Proofer 的外部链接检查
+# Top nav links (kept short — single primary tab + a couple of supporting ones)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "CV"
+    url: "/cv/"
+
+# Social links (icon row)
+social:
+  - name: "GitHub"
+    url: "https://github.com/liuruomeng"
+    icon: "github"
+  - name: "X"
+    url: "https://x.com/liu_ruomeng"
+    icon: "x"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/ruomeng-liu/"
+    icon: "linkedin"
+
 plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-optional-front-matter
 
-# 如果使用了 jekyll-github-metadata，添加这个
-repository: ruomeng6/ruomeng6.github.io
+repository: liuruomeng/liuruomeng.github.io
 
-# 禁用严格的链接检查
-strict_front_matter: false
+sass:
+  style: compressed
+  sass_dir: _sass
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - LICENSE
+  - .RData
+  - .Rhistory
+  - .rubocop.yml
+  - .travis.yml
+  - jekyll-theme-minimal.gemspec
+  - script
+  - docs

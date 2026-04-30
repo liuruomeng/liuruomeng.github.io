@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout *)",
+      "Bash(bundle exec *)",
+      "Bash(bundle install *)",
+      "Bash(python3 *)",
+      "Bash(curl -s http://127.0.0.1:4000)",
+      "WebFetch(domain:maxiao.info)",
+      "Bash(grep -vE \"DEPRECATION|deprecation|sass-lang|@import|migrator|^  ╷|^  │|^  ╵|^[0-9]+ │|root stylesheet|^$\")",
+      "Bash(pkill -f \"jekyll serve\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:4000/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:4000/publications/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:4000/assets/css/main.css)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code} /\\\\n\" http://127.0.0.1:4000/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code} /research/\\\\n\" http://127.0.0.1:4000/research/)",
+      "Bash(curl -s http://127.0.0.1:4000/assets/css/main.css)"
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+---
+# Front matter required so Jekyll processes this file
+---
+
+$body-color:     #000000;
+$heading-color:  #000000;
+$text-soft:      hsla(0, 0%, 0%, 0.65);
+$text-muted:     hsla(0, 0%, 0%, 0.45);
+$bg:             #ffffff;
+
+$rule-heading:   rgb(170, 170, 170);
+$rule-table:     hsla(0, 0%, 0%, 0.12);
+$rule-hr:        hsla(0, 0%, 0%, 0.2);
+$rule-light:     hsla(0, 0%, 0%, 0.1);
+
+$link:           #0645ad;
+$link-visited:   #0b0080;
+
+$body-font: "Helvetica Neue", "Helvetica", Arial, serif;
+
+$bold-font: "Linux Libertine", "Georgia", serif;
+$sans: "Helvetica Neue", "Helvetica", Arial,
+       "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+$serif:       "Merriweather", Georgia, "Times New Roman", serif;
+$mono:        "SF Mono", "Menlo", "Consolas", monospace;
+
+$max-width: 720px;
+
+/* ===== Reset ===== */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-size: 87.5%;           /* base = 14px */
+  line-height: 1.57;
+  font-family: $body-font;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: $body-font;
+  font-size: 1rem;
+  line-height: 1.57;
+  color: $body-color;
+  background: $bg;
+
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 56px 24px 96px;
+}
+
+/* ===== Headings ===== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $bold-font;
+  font-weight: 700;
+  color: $heading-color;
+  line-height: 1.25;
+  margin-top: 1.6rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 1px solid $rule-heading;
+  padding-bottom: 0.15em;
+  letter-spacing: -0.005em;
+}
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.3rem; }
+h4 { font-size: 1.1rem; }
+h5 { font-size: 0.95rem; }
+h6 { font-size: 0.9rem; }
+
+/* ===== Paragraphs ===== */
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+/* ===== Links ===== */
+a {
+  color: $link;
+  text-decoration: none;
+
+  &:hover  { text-decoration: underline; }
+  &:visited { color: $link-visited; }
+  &:visited:hover { text-decoration: underline; }
+}
+
+/* ===== Lists (no bullets, no numbers — plain indented) ===== */
+ul, ol {
+  list-style: none;
+  margin: 0.5em 0;
+  padding-left: 0;
+  margin-left: 0;
+}
+li { margin: 0.2em 0; }
+li > ul, li > ol { margin-top: 0.2em; margin-bottom: 0.2em; padding-left: 1.2em; }
+
+/* ===== Tables ===== */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+
+  th, td {
+    padding: 0.5em 0.75em;
+    border-bottom: 1px solid $rule-table;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { font-weight: 700; }
+}
+
+/* ===== Horizontal rule ===== */
+hr {
+  border: 0;
+  background: $rule-hr;
+  height: 1px;
+  margin: 1.5em 0;
+}
+
+/* ===== Inline / code / quote ===== */
+strong, b { font-weight: 700; }
+em, i { font-style: italic; }
+
+blockquote {
+  margin: 1em 0;
+  padding: 0 1em;
+  border-left: 2px solid $rule-light;
+  color: $text-soft;
+}
+
+code, kbd, samp {
+  font-family: $mono;
+  font-size: 0.92em;
+  background: hsla(0, 0%, 0%, 0.05);
+  padding: 0.08em 0.32em;
+  border-radius: 2px;
+}
+pre {
+  font-family: $mono;
+  font-size: 0.88em;
+  background: hsla(0, 0%, 0%, 0.04);
+  padding: 14px 16px;
+  overflow-x: auto;
+  border-radius: 2px;
+  line-height: 1.5;
+  code { background: transparent; padding: 0; }
+}
+
+img { max-width: 100%; height: auto; }
+
+/* ===== Site header ===== */
+.site-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid $rule-heading;  
+  padding-bottom: 0.4em;                    
+}
+
+.site-name {
+  font-family: $bold-font;
+  font-size: 2rem;
+  font-weight: 700;
+  color: $heading-color;
+  text-decoration: none;
+  letter-spacing: 0.005em;
+  &:hover, &:visited { color: $heading-color; text-decoration: none; }
+}
+
+.site-nav {
+  font-family: $sans;
+  font-size: 1rem;
+  color: $text-muted;
+
+  a {
+    color: $link;
+    text-decoration: none;
+    &:hover    { text-decoration: underline; color: $link; }
+    &:visited  { color: $link-visited; }
+  }
+  .sep { color: $text-muted; margin: 0 0.15em; user-select: none; }
+}
+
+/* ===== Social icons ===== */
+.social {
+  list-style: none;
+  margin: 0 0 28px;
+  margin-left: 0;
+  padding: 0;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+
+  & > li { margin: 0; padding: 0; }
+  a {
+    color: $text-soft;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    transition: color 120ms ease;
+    text-decoration: none;
+    &:hover, &:visited { color: $body-color; text-decoration: none; }
+    svg { display: block; }
+  }
+}
+
+/* ===== Avatar ===== */
+.avatar {
+  margin: 0 0 1.2em 0;
+  text-align: center;
+
+  img {
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 0;
+  }
+}
+/* Clear floats so following sections don't wrap underneath if content is short */
+.content::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* ===== Footer ===== */
+.site-footer {
+  margin-top: 56px;
+  padding-top: 18px;
+  border-top: 1px solid $rule-light;
+  font-family: $sans;
+  font-size: 0.86rem;
+  color: $text-muted;
+  p { margin: 0; }
+  a {
+    color: $text-muted;
+    text-decoration: underline;
+    &:hover { color: $text-soft; }
+    &:visited { color: $text-muted; }
+  }
+}
+
+/* ===== First content heading: don't need extra top margin/border ===== */
+.content > :first-child {
+  margin-top: 0;
+}
+.content > h1:first-child,
+.content > h2:first-child,
+.content > h3:first-child {
+  margin-top: 0;
+  border-top: 0;
+  padding-top: 0;
+}
+
+/* ===== Contact ===== */
+.contact-email {
+  font-weight: 700;
+  font-size: 1.05rem;
+  font-family: $sans;
+  letter-spacing: 0.01em;
+  margin: 0.6em 0 0.2em;
+}
+
+/* ===== Publications list ===== */
+.pub-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  & > li {
+    margin: 0 0 1.4em;
+    padding: 0;
+  }
+}
+.pub-title   { color: $heading-color; }
+.pub-authors { color: $body-color; }
+.pub-venue   { font-style: italic; color: $text-soft; }
+.pub-meta a  { margin-right: 10px; font-size: 0.92em; }
+
+.tag {
+  display: inline-block;
+  font-family: $sans;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $text-muted;
+  border: 1px solid $rule-light;
+  padding: 0.05em 0.5em;
+  border-radius: 2px;
+  vertical-align: 1px;
+  margin-left: 6px;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+  .avatar {
+    float: none;
+    margin: 0 0 18px;
+    text-align: center;
+    img { width: 150px; height: 150px; }
+  }
+}
+
+@media print {
+  .site-nav, .social, .site-footer { display: none; }
+  .container { max-width: 100%; padding: 0; }
+  a { color: #000; text-decoration: underline; }
+}
+
+/* ===== PDF viewer ===== */
+.pdf-viewer {
+  margin: 1.5em 0;
+}
+
+.pdf-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  padding: 0.5em 0.75em;
+  border: 1px solid $rule-light;
+  border-bottom: none;
+  background: hsla(0, 0%, 0%, 0.02);
+  font-size: 0.9rem;
+  font-family: $sans;
+}
+
+.pdf-toolbar-group {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.pdf-btn {
+  display: inline-block;
+  padding: 0.25em 0.7em;
+  border: 1px solid $rule-light;
+  background: #fff;
+  color: $body-color;
+  text-decoration: none;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  cursor: pointer;
+  border-radius: 2px;
+  font-family: inherit;
+}
+
+.pdf-btn:hover {
+  background: hsla(0, 0%, 0%, 0.04);
+  text-decoration: none;
+}
+
+.pdf-zoom-label,
+.pdf-page-info {
+  color: $text-soft;
+  font-variant-numeric: tabular-nums;
+  min-width: 3em;
+  text-align: center;
+}
+
+.pdf-note {
+  margin: 1em 0 0.5em;
+  color: $text-soft;
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+.pdf-pages {
+  border: 1px solid $rule-light;
+  background: #f4f4f4;
+  padding: 8px;
+  overflow: auto;
+  text-align: center;
+}
+
+.pdf-page {
+  display: block;
+  margin: 0 auto 8px;
+  background: #fff;
+  box-shadow: 0 1px 3px hsla(0, 0%, 0%, 0.15);
+  max-width: 100%;
+}
+
+.pdf-page:last-child {
+  margin-bottom: 0;
+}
+
+.pdf-loading {
+  color: $text-muted;
+  padding: 2em 0;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .pdf-toolbar { font-size: 0.8rem; }
+}
