@@ -7,7 +7,11 @@ description: "Ruomeng Liu"
 
 
 <div class="avatar">
-  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Ruomeng Liu" loading="lazy" />
+  <picture>
+    <source type="image/avif" srcset="{{ '/assets/img/profile-360.avif' | relative_url }} 1x, {{ '/assets/img/profile-720.avif' | relative_url }} 2x" />
+    <source type="image/webp" srcset="{{ '/assets/img/profile-360.webp' | relative_url }} 1x, {{ '/assets/img/profile-720.webp' | relative_url }} 2x" />
+    <img src="{{ '/assets/img/profile-720.jpg' | relative_url }}" alt="Ruomeng Liu" width="180" height="180" decoding="async" fetchpriority="high" />
+  </picture>
 </div>
 
 

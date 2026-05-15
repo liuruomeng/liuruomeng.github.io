@@ -74,7 +74,11 @@
 
     <main class="content">
       <div class="avatar">
-  <img src="/assets/img/profile.jpg" alt="Ruomeng Liu" loading="lazy" />
+  <picture>
+    <source type="image/avif" srcset="/assets/img/profile-360.avif 1x, /assets/img/profile-720.avif 2x" />
+    <source type="image/webp" srcset="/assets/img/profile-360.webp 1x, /assets/img/profile-720.webp 2x" />
+    <img src="/assets/img/profile-720.jpg" alt="Ruomeng Liu" width="180" height="180" decoding="async" fetchpriority="high" />
+  </picture>
 </div>
 
 <!-- # About -->
