@@ -59,6 +59,11 @@ The full list is in my [CV]({{ '/cv/' | relative_url }}).
 
 <ul class="pub-list">
   <li>
+    <span class="pub-title">Redefining Depth: The Evolution of In-Depth Reporting on WeChat (2013-2025).</span><br>
+    <span class="pub-venue">ICA Journalism Studies Panel, Cape Town, June 2026.</span><br>
+    <span class="pub-meta"><a href="{{ '/assets/slides/redefining-depth.html' | relative_url }}">Slides</a></span>
+  </li>
+  <li>
     <span class="pub-title">Reading <em>A First Course in Causal Inference</em> by Peng Ding, Ch 14–15.</span><br>
     <span class="pub-venue">HKU Quantitative Social Science Reading Group, April 2025.</span><br>
     <span class="pub-meta"><a href="{{ '/assets/pdfs/Causal%20Inference%20Reading%20Pre_ch14-15.pdf' | relative_url }}">Slides</a></span>
